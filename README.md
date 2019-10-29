@@ -39,7 +39,7 @@ If you want to use exactly what's in tutorial made by Sentdex, use v0.1 tag. The
  1. ```$ git clone --recursive https://github.com/AnmolPatil2/Chat__Bot```  
     (or)  
     ```$ git clone --branch v0.1 --recursive https://github.com/AnmolPatil2/Chat__Bot``` (for a version featured in Sentdex tutorial)
- 2. ```$ cd nmt-chatbot```
+ 2. ```$ cd Chat__Bot/nmt-chatbot```
  3. ```$ pip install -r requirements.txt``` TensorFlow-GPU is one of the requirements. You also need CUDA Toolkit 8.0 and cuDNN 6.1. 
  4. ```$ cd setup```
  5. (optional) edit settings.py to your liking. These are a decent starting point for ~4GB of VRAM, you should first start by trying to raise vocab if you can. 
