@@ -36,11 +36,11 @@ It is *highly* recommended that you use Python 3.6+. Python 3.4 and 3.5 is likel
 
 If you want to use exactly what's in tutorial made by Sentdex, use v0.1 tag. There are multiple changes after last part of tutorial.
 
- 1. ```$ git clone --recursive https://github.com/daniel-kukiela/nmt-chatbot```  
+ 1. ```$ git clone --recursive https://github.com/AnmolPatil2/Chat__Bot```  
     (or)  
-    ```$ git clone --branch v0.1 --recursive https://github.com/daniel-kukiela/nmt-chatbot.git``` (for a version featured in Sentdex tutorial)
+    ```$ git clone --branch v0.1 --recursive https://github.com/AnmolPatil2/Chat__Bot``` (for a version featured in Sentdex tutorial)
  2. ```$ cd nmt-chatbot```
- 3. ```$ pip install -r requirements.txt``` TensorFlow-GPU is one of the requirements. You also need CUDA Toolkit 8.0 and cuDNN 6.1. (Windows tutorial: https://www.youtube.com/watch?v=r7-WPbx8VuY  Linux tutorial: https://pythonprogramming.net/how-to-cuda-gpu-tensorflow-deep-learning-tutorial/)
+ 3. ```$ pip install -r requirements.txt``` TensorFlow-GPU is one of the requirements. You also need CUDA Toolkit 8.0 and cuDNN 6.1. 
  4. ```$ cd setup```
  5. (optional) edit settings.py to your liking. These are a decent starting point for ~4GB of VRAM, you should first start by trying to raise vocab if you can. 
  6. (optional) Edit text files containing rules in the setup directory.
