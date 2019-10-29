@@ -287,8 +287,6 @@ Changelog
 - Fixed command for tag cloning
 - Various fixes and other small improvements, improved readme file
 
-### v0.1
-- Initial commit, code for tutorial: https://pythonprogramming.net/chatbot-deep-learning-python-tensorflow/
 
 ----------
 # Chat__Bot
