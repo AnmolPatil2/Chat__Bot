@@ -276,7 +276,7 @@ def answer_subsentence_diffrence_by_distance(index, question, answer):
     return 0
 '''
 
-# Score response
+# Score respons
 def score_answers(question, answers):
 
     # Scoring enabled?
