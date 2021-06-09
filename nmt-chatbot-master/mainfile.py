@@ -78,7 +78,7 @@ def transaction_bldr(sql):
         connection.commit()
         sql_transaction = []
 
-# if the score is better than the other
+# if the score is better than the other 
 
 
 def sql_insert_replace_comment(commentid, parentid, parent, comment, subreddit, time, score):
