@@ -27,7 +27,7 @@ current_stdout = None
 # - import for use in other code
 # - use input and output of our choice (so, for example, file as input and console as output,
 #   or even console as input and file as output (but why? ;) ), etc)
-# Why that nmt module doesn't give us some easy to use interface?
+# Why that nmt module doesn't give ussome easy to use interface?
 
 # Start inference "engine"
 def do_start_inference(out_dir, hparams):
